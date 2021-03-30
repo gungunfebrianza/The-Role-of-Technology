@@ -24,3 +24,6 @@ Dalam konteks bisnis, kesuksesan kita dalam berbisnis ditandai dengan terpenuhin
 
 # Digital Era Challenge
 
+Era digital yang kita hadapi saat ini adalah era digital yang sudah melalui berbagai fase.
+
+Era digital, atau revolusi digital diawali pada Revolusi Industri ke 3 saat komputer dan internet sudah mulai menjadi bagian dan kebutuhan hidup  manusia. Hadirnya industri semikonduktor, mainframe computing dan personal computing  melahirkan super creative destruction dan suburnya perkembangan inovasi. 
