@@ -27,3 +27,8 @@ Dalam konteks bisnis, kesuksesan kita dalam berbisnis ditandai dengan terpenuhin
 Era digital yang kita hadapi saat ini adalah era digital yang sudah melalui berbagai fase.
 
 Era digital, atau revolusi digital diawali pada Revolusi Industri ke 3 saat komputer dan internet sudah mulai menjadi bagian dan kebutuhan hidup  manusia. Hadirnya industri semikonduktor, mainframe computing dan personal computing  melahirkan super creative destruction dan suburnya perkembangan inovasi. 
+
+<img src="assets\industry history.jpg" style="zoom:87%;" />
+
+Era digital melahirkan sebuah konsep yang dikenal dengan Digital Transformation, sebuah fenomena yang memberikan perubahan besar untuk sisi sosial dan ekonomi. Tersedianya ruang dan channel untuk melakukan networking antar berbagai aktor untuk bertukar data melahirkan tatanan baru.
+
