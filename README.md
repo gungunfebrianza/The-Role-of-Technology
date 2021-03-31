@@ -8,13 +8,15 @@
 
 Technology is just a tools.
 
+![](F:\Seminar\Optimization The Role of Technology\The-Role-of-Technology\assets\technology.PNG)
+
 Technology melahirkan sebuah paradox, technology bisa digunakan untuk membantu manusia dan bisa digunakan untuk merugikan manusia. Seperti yang telah di bahas oleh Marx dalam bukunya yang berjudul das kapital, pada bab 15 tentang "Machinery and Modern Industry"
 
 Technologi dianggap sebagai instrument yang dapat dikendalikan oleh kapitalis untuk meningkatkan profit pendapatan mereka dengan cara mengorbankan tenaga kerja manusia. Kemajuan teknologi dapat menimbulkan sulitnya lapangan pekerjaan dan pengangguran.
 
 <img src="assets\daskapital.png" style="zoom:50%;" />
 
-Untuk itu kita perlu pikiran (mind) agar bisa memberikan manfaat lebih banyak saat menggunakan teknologi. 
+Kita tahu bahwa technology adalah sebuah tools, agar kita bisa memberikan manfaat yang lebih banyak saat menggunakan teknologi kita memerlukan pikiran (mind). Pikiran sebagai alat dasar (basic tools) agar anak adam bisa survive.
 
 *Man's Mind is the basic tools*, seperti yang telah di jelaskan oleh John Galt.
 
