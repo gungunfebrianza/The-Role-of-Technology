@@ -52,9 +52,12 @@ Era digital yang kita hadapi saat ini adalah era digital yang sudah melalui berb
 
 <img src="assets\scientific revolution.png" style="zoom:100%;" />
 
+Akhirnya kita sampai pada gambaran besar kita, tentang bagaimana cara menghadapi tantangan di era digital saat ini. 
 
+<img src="assets\design thinking4.png" style="zoom:100%;" />
 
-
+# Digital Transformation
 
 Era digital melahirkan sebuah konsep yang dikenal dengan Digital Transformation, sebuah fenomena yang memberikan perubahan besar untuk sisi sosial dan ekonomi. Tersedianya ruang dan channel untuk melakukan networking antar berbagai aktor untuk bertukar data melahirkan tatanan baru.
 
+<img src="assets\internet.png" style="zoom:100%;" />
