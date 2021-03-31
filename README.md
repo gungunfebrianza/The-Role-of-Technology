@@ -1,4 +1,4 @@
-# The Role of Technology
+# Optimization The Role of Technology to Challenge Digital Era
 
 <img src="cover.jpg" style="zoom:60%;" />
 
@@ -6,9 +6,11 @@
 
 # Technology
 
+Jika kita lihat judul webinar ini, ada dua terminologi yang harus kita fahami terlebih dahulu yaitu technology dan Digital Era. Kita akan memulai membahasnya dari technology terlebih dahulu. So what is technology? 
+
 Technology is just a tools.
 
-<img src="assets\technology.png" style="zoom:90%;" />
+<img src="assets\technology.PNG" style="zoom:90%;" />
 
 Technology melahirkan sebuah paradox, technology bisa digunakan untuk membantu manusia dan bisa digunakan untuk merugikan manusia. Seperti yang telah di bahas oleh Marx dalam bukunya yang berjudul das kapital, pada bab 15 tentang "Machinery and Modern Industry"
 
@@ -33,6 +35,8 @@ Masalah yang bisa kita pecahkan, bisa dimulai dengan mencoba memecahkan masalah-
 <img src="assets\design thinking2.png" style="zoom:100%;" />
 
 Dalam konteks bisnis, kesuksesan kita dalam berbisnis ditandai dengan terpenuhinya ***Customer Need***. Kita memecahkan masalah-masalah yang sedang dihadapi customer. Adanya transaksi antara customer dengan bisnis yang sedang kita jalani, kedua belah pihak mendapatkan keuntungan dari kegiatan transaksi.
+
+<img src="assets\design thinking3.png" style="zoom:100%;" />
 
 # Digital Era Challenge
 
