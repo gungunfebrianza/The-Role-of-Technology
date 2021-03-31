@@ -1,4 +1,4 @@
-# Optimization The Role of Technology to Challenge Digital Era
+Optimization The Role of Technology to Challenge Digital Era
 
 <img src="cover.jpg" style="zoom:60%;" />
 
@@ -55,6 +55,14 @@ Era digital yang kita hadapi saat ini adalah era digital yang sudah melalui berb
 Akhirnya kita sampai pada gambaran besar kita, tentang bagaimana cara menghadapi tantangan di era digital saat ini. 
 
 <img src="assets\design thinking4.png" style="zoom:100%;" />
+
+Tantangan dari Digital Era adalah bisa dibaca mulai dari konsep digitalization
+
+<img src="assets\digitalization.png" style="zoom:100%;" />
+
+Contoh Digitalization di sektor Financial Technology & Blockchain :
+
+<img src="assets\blockchain.png" style="zoom:100%;" />
 
 # Digital Transformation
 
