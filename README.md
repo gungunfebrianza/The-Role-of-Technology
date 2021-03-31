@@ -22,7 +22,9 @@ Kita tahu bahwa technology adalah sebuah tools, agar kita bisa memberikan manfaa
 
 <img src="quote1.PNG" style="zoom:75%;" />
 
-Untuk berpikir dengan baik kita memerlukan Design Thinking, sebuah metodologi berpikir kreatif yang bisa kita gunakan untuk memecahkan masalah.
+Jadi ada dua tools ya, tools pertama sebagai tools dasar adalah pikiran dan kedua adalah technology. Untuk bisa menggunakan pikiran dan teknologi dengan baik kita memerlukan sebuah design thinking. 
+
+Design Thinking adalah sebuah metodologi berpikir kreatif yang bisa kita gunakan untuk memecahkan masalah.
 
 <img src="assets\design thinking.png" style="zoom:100%;" />
 
@@ -34,7 +36,7 @@ Dalam konteks bisnis, kesuksesan kita dalam berbisnis ditandai dengan terpenuhin
 
 # Digital Era Challenge
 
-Era digital yang kita hadapi saat ini adalah era digital yang sudah melalui berbagai fase.
+Digital Era adalah saat binary digit yang terdiri dari angka 0 dan 1 (biner) menjadi fondasi untuk melakukan komputasi. Era digital yang kita hadapi saat ini adalah era digital yang sudah melalui berbagai fase.
 
 <img src="assets\scientific revolution.png" style="zoom:100%;" />
 
