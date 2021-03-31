@@ -58,6 +58,8 @@ Akhirnya kita sampai pada gambaran besar kita, tentang bagaimana cara menghadapi
 
 # Digital Transformation
 
+<img src="assets\age of information.png" style="zoom:100%;" />
+
 Era digital melahirkan sebuah konsep yang dikenal dengan Digital Transformation, sebuah fenomena yang memberikan perubahan besar untuk sisi sosial dan ekonomi. Tersedianya ruang dan channel untuk melakukan networking antar berbagai aktor untuk bertukar data melahirkan tatanan baru.
 
 <img src="assets\internet.png" style="zoom:100%;" />
