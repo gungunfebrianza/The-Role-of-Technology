@@ -1,4 +1,4 @@
-Optimization The Role of Technology to Challenge Digital Era
+# Optimization The Role of Technology
 
 <img src="cover.jpg" style="zoom:60%;" />
 
